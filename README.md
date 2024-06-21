@@ -7,6 +7,11 @@ best-fit for most RAG applications.
 
 ## Getting Started  
 
+***Required: 
+Your own data files
+Subscription to Azure OpenAI Services
+***
+
 This repo is built using the Ubuntu Linux distro from Windows Subsystem for Linux v2. The first step
 is getting a distro setup in Windows (we recommend using the Windows Terminal application, available
 in the Microsoft Store). Once that's done, we need to configure the Git environment. The first step
