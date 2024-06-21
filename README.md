@@ -8,8 +8,8 @@ best-fit for most RAG applications.
 ## Getting Started  
 
 ***Required:*** 
-Your own data files
-Subscription to Azure OpenAI Services
+Your own data files and a 
+subscription to Azure OpenAI Services
 ***
 
 This repo is built using the Ubuntu Linux distro from Windows Subsystem for Linux v2. The first step
