@@ -7,7 +7,7 @@ best-fit for most RAG applications.
 
 ## Getting Started  
 
-***Required: 
+***Required:*** 
 Your own data files
 Subscription to Azure OpenAI Services
 ***
